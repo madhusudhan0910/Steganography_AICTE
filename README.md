@@ -31,7 +31,7 @@ Run the script to embed a message into an image:
 python encrypt.py
 
 - Enter a **secret message**.
-- Provide an **image file** (e.g., `mypic.jpg`).
+- Provide an **image file** (e.g., `polina-lavor-mIrSgbi0mrc-unsplash.jpg`).
 - The **encrypted image** (`encryptedImage.png`) is generated.
 
 ### **2. Decryption (Extracting the Message from the Image)**
