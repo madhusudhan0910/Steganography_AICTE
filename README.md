@@ -20,7 +20,7 @@ This project implements **Least Significant Bit (LSB) Steganography** using **Py
 Ensure **Python 3.7+** is installed, then install the required dependencies using:
 
 
-pip install opencv-python numpy pillow
+pip install opencv-python
 
 
 ## Usage
